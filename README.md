@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrlsk8&hide=prs,issues&count_private=true&show_icons=true&theme=dracula&hide_border=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrlsk8&hide=prs,issues&count_private=true&show_icons=true&theme=dracula&hide_border=true&title_color=612F74)
 
 <!--
 **MRLSK8/mrlsk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
