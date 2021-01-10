@@ -1,4 +1,8 @@
+### This is my github stats:
+
 ![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=mrlsk8&hide=prs,issues&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&hide_border=true)
+
+### This is my top langs:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlsk8&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff&hide_border=true&card_width=445)
 
