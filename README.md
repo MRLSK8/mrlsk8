@@ -2,7 +2,7 @@
 - Frontend developer with some experience with backend as well.
 - Majoring in Information Systems at the University of Pernambuco (located at Caruaru - PE).
 - Currently working with development of mobile apps (React Native) and websites (React.js).
-- I can speak English fluently (Maybe my speaking is a bit rusty nowadays, but I can get by), my other skills is pretty good, for that matter.
+- I can speak English fluently (Maybe my speaking is a bit rusty nowadays, but I can get by), my other skills English-wise is pretty good, for that matter.
 
 ### This is my github stats:
 
