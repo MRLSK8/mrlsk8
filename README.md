@@ -1,4 +1,8 @@
 ## Brief description of myself 😏🙈
+- Frontend developer with some experience with backend as well.
+- Majoring in Information Systems at University of Pernambuco (located at Caruaru - PE).
+- Currently working with development of mobile apps (React Native) and websites (React.js).
+- I can speak English fluently (Maybe my speaking is a bit rusty nowadays, but I can get by), my other skills is pretty good, for that matter.
 
 ### This is my github stats:
 
@@ -20,7 +24,7 @@
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=3178c6)
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=3178c6">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
