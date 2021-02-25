@@ -4,6 +4,9 @@
 - Currently working with development of mobile apps (React Native) and websites (React.js).
 - I can speak English fluently (Maybe my speaking is a bit rusty nowadays, but I can get by), my other skills English-wise is pretty good, for that matter.
 
+## My resume on notion
+https://www.notion.so/Resume-7ed45a02d3e947928894dec262b59edb
+
 ### This is my github stats:
 
 ![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=mrlsk8&hide=prs,issues&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&hide_border=true)
