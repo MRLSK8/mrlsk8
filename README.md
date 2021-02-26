@@ -1,4 +1,4 @@
-## Brief description of myself 😏🙈
+## Brief description of myself 
 - Frontend developer with some experience with backend as well.
 - Majoring in Information Systems at the University of Pernambuco (located at Caruaru - PE).
 - Currently working with development of mobile apps (React Native) and websites (React.js).
