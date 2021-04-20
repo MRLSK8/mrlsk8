@@ -1,7 +1,7 @@
 ## Brief description of myself 
 - Frontend developer with some experience with backend as well.
 - Majoring in Information Systems at the University of Pernambuco (located at Caruaru - PE).
-- Currently working with development of mobile apps (React Native) and websites (React.js) and API's with node.js.
+- Currently working with development of mobile apps (React Native), websites (React.js) and API's with node.js.
 - I can speak English fluently (Maybe my speaking is a bit rusty nowadays, but I can get by), my other skills English-wise is pretty good, for that matter.
 
 ## My resume on notion
