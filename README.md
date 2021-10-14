@@ -4,7 +4,7 @@
 - Currently working on mobile app development (React Native), websites (React.js) and API's REST with node.js.
 - I can speak English fluently (Maybe my speaking is a bit rusty nowadays, but I can get by), my other skills English-wise is pretty good, for that matter.
 
-## My resume on notion
+## My resume on notion (WIP)
 https://www.notion.so/Resume-7ed45a02d3e947928894dec262b59edb
 
 ### This is my github stats:
